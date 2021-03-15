@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
 import "./App.css";
-
 import { useSelector, useDispatch } from "react-redux";
 import { fetchPost } from "./redux/actions/postAction";
 
